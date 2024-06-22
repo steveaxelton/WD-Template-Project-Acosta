@@ -1,0 +1,30 @@
+body {
+    background-color: #300000;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+h1, h2, p{
+    color:white;
+}
+
+.navbar {
+    background-color: #1b0101;
+    overflow: hidden;
+}
+.navbar a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+.navbar a:hover {
+    background-color: #682a2a;
+    color: white;
+}
+
+section {
+    color:aliceblue
+}
